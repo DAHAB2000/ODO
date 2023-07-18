@@ -18,7 +18,7 @@
     box-sizing: border-box;
     outline: none;
     border:none;
-    display: block;
+    /* display: block; */
     text-decoration: none;
 }
  
@@ -57,7 +57,7 @@ body.active{
     padding-left: 0;
 }
 section{
-    /* padding:2rem; */
+    padding:2rem; 
     margin: 0 auto;
     max-width: 1200px;
 }
